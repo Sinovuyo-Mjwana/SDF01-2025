@@ -75,6 +75,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 🚀 Fun Fact
 
 💡 I love learning new things and can't wait to build my first website!
+I love doing puzzles
 
 ---
 
